@@ -1,0 +1,7 @@
+-c requirements-dev.txt
+ppandas 
+numpy
+seaborn
+scipy
+matplotlib
+jupyter

@@ -1,0 +1,6 @@
+project2/
+requirements-dev.in
+requirements.in
+data/
+.DS_Store
+.ipynb_checkpoints
